@@ -1,0 +1,14 @@
+{
+    "name": "simplercode/silex-flex-thumb",
+    "description": "Yet another thumbnail generation service for Silex apps",
+    "type": "lib",
+    "require": {
+        "php": "^5.4"
+    },
+    "authors": [
+        {
+            "name": "emcode",
+            "email": "michal@simplercode.com"
+        }
+    ]
+}
